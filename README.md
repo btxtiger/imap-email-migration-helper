@@ -3,6 +3,14 @@
 This tool helps to reduce manual effort in migrating IMAP email accounts from one server to another using
 [joeyates/imap-backup](https://github.com/joeyates/imap-backup).
 
+## How to use
+- Clone the project
+```shell
+git clone --depth=1 --branch=main https://github.com/btxtiger/imap-email-migration-helper.git \
+&& rm -rf ./imap-email-migration-helper/.git
+```
+- Configure the project to your requirements
+
 ## Requirements
 
 - You will need to have node.js installed on your local machine to generate the helper files.
