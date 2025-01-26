@@ -1,0 +1,3 @@
+abc@domain.com
+efg@domain.com
+xyz@domain.com

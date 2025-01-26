@@ -1,0 +1,14 @@
+INBOX.Archive => Archive
+INBOX.Deleted Messages => Deleted Messages
+INBOX.Drafts => Drafts
+INBOX.Gesendet => Gesendet
+INBOX.Junk => Junk
+INBOX.Notes => Notes
+INBOX.Sent Messages => Sent Messages
+INBOX.Sent => Sent
+INBOX.spam => Spam
+INBOX.Trash => Trash
+INBOX.alt => Alt
+Entwürfe => Drafts
+Gesendete Objekte => Sent
+Papierkorb => Trash
