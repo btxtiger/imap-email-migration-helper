@@ -55,6 +55,7 @@ tail -f ~/.imap-backup/imap-backup.log
 ## 1.1) Moving the domain
 
 - You should create a cronjob to update the backups constantly until the domain migration is completed.
+- Make sure to choose the interval wisely, to avoid overlapping executions (just track the duration of an incremental backup).
 - Make sure to remove the cronjob before restoring the backups to the new server.
 - You might run it multiple times until you can verify, that all accounts are entirely backed up.
 
