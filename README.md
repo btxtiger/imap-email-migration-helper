@@ -16,8 +16,8 @@ git clone --depth=1 --branch=main https://github.com/btxtiger/imap-email-migrati
 - You will need to have node.js installed on your local machine to generate the helper files.
 - We will also assume, that you are using a dedicated migration server to run the migration commands
   (when we speak about "your server" in the following steps).
-- Install `imap-backup` on your server as [**homebrew or Ruby Gem
-  **](https://github.com/joeyates/imap-backup?tab=readme-ov-file#installation). Docker is not supported with this tool.
+- Install `imap-backup` on your server as [homebrew or Ruby Gem
+  ](https://github.com/joeyates/imap-backup?tab=readme-ov-file#installation). Docker is not supported with this tool.
 
 ## Prerequisites
 
